@@ -11,5 +11,27 @@
   },
   "dependencies": {
     "astro": "^5.1.7"
-  }
+  },
+  "author": "Joe - XMRT",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevGruGold/astrostarter.git"
+  },
+  "keywords": [
+    "blockchain",
+    "cryptocurrency",
+    "privacy",
+    "defi",
+    "financial-freedom",
+    "liberty",
+    "web3",
+    "decentralized",
+    "crypto",
+    "privacy-tech",
+    "smart-contracts",
+    "ethereum",
+    "bitcoin",
+    "web3"
+  ]
 }
